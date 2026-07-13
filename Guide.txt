@@ -1,0 +1,7 @@
+Launch the miner.
+Enter your Bitcoin wallet address.
+Configure the pool URL and worker name.
+Adjust optional mining settings.
+Click Start Mining.
+Monitor your hashrate and accepted shares.
+Stop mining or update the configuration at any time.
